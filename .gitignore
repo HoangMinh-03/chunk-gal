@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env
+
+# Project specific
+result/
+*.pdf
+example/*.pdf
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
