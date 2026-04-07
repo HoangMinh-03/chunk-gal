@@ -2,6 +2,8 @@
 
 ## (Mã chứng khoán: VNM)
 
+# CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
 # Tài liệu họp
 
 # ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN
@@ -276,5 +278,86 @@ Công ty Cổ phần Sữa Việt Nam
 ```
 Nguyễn Hạnh Phúc
 Chủ tịch
-```
 
+</end-of-page>
+
+#### Mẫu số 01
+
+# (TÊN CƠ QUAN, TỔ CHỨC)
+
+# CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+
+Số:..... V/v đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ
+
+..., ngày ... tháng ... năm ...
+
+Kính gửi: (Đơn vị chuyên trách về an toàn thông tin).
+
+Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+
+(Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản liên quan);
+
+(Tên cơ quan, tổ chức) đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp đô với các nôi dung sau:
+
+#### Phần 1. Thông tin chung
+
+- 1. Tên hệ thống thông tin:
+- 2. Đơn vị vận hành hệ thống thông tin:
+- 3. Địa chỉ:
+- 4. Cấp độ an toàn hệ thống thông tin đề xuất:
+
+#### Phần 2. Hồ sơ kèm theo
+
+- 1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống thông tin.
+- 2. Tài liệu thiết kế thi công đã được cấp có thẩm quyền phê duyệt hoặc tài liêu có giá tri tương đương.
+- 3. Tài liệu thuyết minh về việc đề xuất cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+- 4. Tài liệu thuyết minh phương án bảo đảm an toàn thông tin theo cấp độ tương ứng.
+
+(Tên cơ quan, tổ chức) đề nghị (Đơn vị chuyên trách về an toàn thông tin) thẩm định và phê duyệt hồ sơ đề xuất cấp độ của hệ thống thông tin (Tên hệ thống thông tin)./.
+
+| Noi  | nhận:   |
+|------|---------|
+| - Nh | u trên; |
+
+ĐẠI DIỆN CỦA CƠ QUAN, TỔ CHỨC (Ký, ghi rõ họ tên, chức danh và đóng dấu)
+
+Mẫu số 02
+
+## (TÊN CƠ QUAN, TỔ CHỨC)
+
+## CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Đốc lập - Tự do - Hạnh phúc
+
+V/v đề nghi thẩm định hồ sơ đề xuất cấp độ
+
+..., ngày ... tháng ... năm ...
+
+Kính gửi: (Đơn vị chuyên trách về an toàn thông tin)
+
+Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+
+(Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản liên quan);
+
+(Tên cơ quan, tổ chức) đề nghị (Cơ quan thẩm định) thẩm định hồ sơ đề xuất cấp độ với các nội dung sau:
+
+#### Phần 1. Thông tin chung
+
+- 1. Tên hệ thống thông tin:
+- 2. Đơn vị vận hành hệ thống thông tin:
+- 3. Địa chỉ:
+- 4. Cấp độ an toàn hệ thống thông tin đề xuất:
+
+#### Phần 2. Hồ sơ kèm theo
+
+- 1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống thông tin.
+- 2. Tài liệu thiết kế thi công đã được cấp có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.
+- 3. Tài liệu thuyết minh về việc đề xuất cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+- 4. Tài liệu thuyết minh phương án bảo đảm an toàn thông tin theo cấp độ tương ứng.
+- 5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin (đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ 5).
+
+(Tên cơ quan, tổ chức) đề nghị (Cơ quan thẩm định) cho ý kiến thẩm định hồ sơ đề xuất cấp độ an toàn hệ thống thông tin đối với (Tên hệ thống thông tin)./.
+
+| Noi  | nhận:   |
+|------|---------|
+| - Nh | ư trên; |
+
+ĐẠI DIỄN CỦA CƠ QUAN, TÔ CHỨC (Ký, ghi rõ họ tên, chức danh và đóng dấu)

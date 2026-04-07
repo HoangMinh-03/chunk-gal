@@ -33,19 +33,41 @@ def process_hierarchical_chunking(content, doc_title, config):
     # Normalize line endings
     content = content.replace('\r\n', '\n')
     
-    # Pre-split into sub-documents using National Motto
-    sub_docs_parts = re.split(rf'({QUOC_HIEU_REGEX})', content)
+    # Pre-split into sub-documents using National Motto and </end-of-page> tag
+    motto_matches = list(re.finditer(QUOC_HIEU_REGEX, content))
     
     sub_docs = []
-    if len(sub_docs_parts) == 1:
-        sub_docs.append(sub_docs_parts[0])
+    if not motto_matches:
+        sub_docs.append(content)
     else:
-        if sub_docs_parts[0].strip():
-            sub_docs.append(sub_docs_parts[0])
-        for i in range(1, len(sub_docs_parts), 2):
-            motto = sub_docs_parts[i]
-            body = sub_docs_parts[i+1] if i+1 < len(sub_docs_parts) else ""
-            sub_docs.append(motto + body)
+        last_split_pos = 0
+        tag = "</end-of-page>"
+        
+        for i, match in enumerate(motto_matches):
+            motto_pos = match.start()
+            # Search for </end-of-page> between last split and this motto
+            search_area = content[last_split_pos:motto_pos]
+            tag_pos = search_area.rfind(tag)
+            
+            if tag_pos != -1:
+                # Split at the tag and remove it
+                split_at = last_split_pos + tag_pos
+                part = content[last_split_pos:split_at].strip()
+                if part:
+                    sub_docs.append(part)
+                last_split_pos = split_at + len(tag)
+            elif i > 0:
+                # No tag found, but not the first motto. 
+                # Split at the motto start to separate from previous document.
+                part = content[last_split_pos:motto_pos].strip()
+                if part:
+                    sub_docs.append(part)
+                last_split_pos = motto_pos
+        
+        # Add the remaining content
+        final_part = content[last_split_pos:].strip()
+        if final_part:
+            sub_docs.append(final_part)
 
     all_chunks = []
     

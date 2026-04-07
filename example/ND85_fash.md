@@ -349,6 +349,7 @@ Nguyễn Xuân Phúc
 | Mấu số 06 | Quyết định phê duyệt cấp độ an toàn hệ thống thông tin    |
 | Mẫu số 07 | Quyết định phê duyệt phương án bảo đảm an toàn thông tin  |
 
+</end-of-page>
 #### Mẫu số 01
 
 # (TÊN CƠ QUAN, TỔ CHỨC)
@@ -429,6 +430,7 @@ Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015;
 | - Nh | ư trên; |
 
 ĐẠI DIỄN CỦA CƠ QUAN, TÔ CHỨC (Ký, ghi rõ họ tên, chức danh và đóng dấu)
+</end-of-page>
 
 ## (TÊN CƠ QUAN, TỔ CHỨC)
 
