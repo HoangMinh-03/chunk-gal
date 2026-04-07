@@ -13,17 +13,19 @@ PATTERNS = {
     "dieu": re.compile(r'^\s*((?:Điều|ĐIỀU)\s+(\d+[a-z]?)\.?\s*' + EXCLUDE_REFS + r'(.*?))$', re.IGNORECASE | re.MULTILINE)
 }
 
+# Optimized patterns for bad OCR cases (no line starts, missing spaces)
+# Note: In force.py, we don't use ^ because markers might be in the middle of a line
 FOOTER_PATTERNS = [
-    re.compile(r'^Nơi nhận:', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^KT\.\s+', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^TM\.\s+', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^THỐNG ĐỐC', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^BỘ TRƯỞNG', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^CHỦ TỊCH', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^PHỤ LỤC', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^Mẫu số:', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^TỜ KHAI', re.IGNORECASE | re.MULTILINE),
-    re.compile(r'^BIÊN BẢN', re.IGNORECASE | re.MULTILINE),
+    re.compile(r'Nơi nh[ậâ]n:', re.I),
+    re.compile(r'KT\.\s*', re.I),
+    re.compile(r'TM\.\s*', re.I),
+    re.compile(r'THỐNG ĐỐC', re.I),
+    re.compile(r'BỘ TRƯỞNG', re.I),
+    re.compile(r'CHỦ TỊCH', re.I),
+    re.compile(r'PHỤ LỤC', re.I),
+    re.compile(r'Mẫu số:', re.I),
+    re.compile(r'TỜ KHAI', re.I),
+    re.compile(r'BIÊN BẢN', re.I),
 ]
 
 def load_file(file_path):
@@ -38,8 +40,16 @@ def process_chunking(content, doc_title="TT48_2024"):
     
     # RELAXED combined pattern: catch structural markers and footer markers anywhere
     # Capture the marker to keep it in the split results
-    footer_markers = r'Nơi nhận:|KT\.|TM\.|THỐNG ĐỐC|BỘ TRƯỞNG|CHỦ TỊCH|PHỤ LỤC|Mẫu số:|TỜ KHAI|BIÊN BẢN'
-    combined_pattern = re.compile(rf'((?:Chương|CHƯƠNG)\s+[IVXLCDM\d]+\.?|(?:Mục|MỤC)\s+\d+\.?|(?:Điều|ĐIỀU)\s+\d+[a-z]?\.?|{footer_markers})', re.IGNORECASE)
+    footer_markers_raw = [
+        r'Nơi nh[ậâ]n:', r'KT\.\s*', r'TM\.\s*', r'THỐNG ĐỐC', r'BỘ TRƯỞNG', 
+        r'CHỦ TỊCH', r'PHỤ LỤC', r'Mẫu số:', r'TỜ KHAI', r'BIÊN BẢN'
+    ]
+    footer_pattern_str = "|".join(footer_markers_raw)
+    
+    combined_pattern = re.compile(
+        rf'((?:Chương|CHƯƠNG)\s+[IVXLCDM\d]+\.?|(?:Mục|MỤC)\s+\d+\.?|(?:Điều|ĐIỀU)\s+\d+[a-z]?\.?|{footer_pattern_str})', 
+        re.IGNORECASE
+    )
     
     # Split the content by markers
     parts = combined_pattern.split(content)
@@ -64,7 +74,6 @@ def process_chunking(content, doc_title="TT48_2024"):
     current_dieu = None
 
     # Process markers and their subsequent bodies
-    # parts[1] is marker, parts[2] is body, parts[3] is marker...
     for i in range(1, len(parts), 2):
         marker = parts[i].strip()
         body = parts[i+1] if i+1 < len(parts) else ""
@@ -82,7 +91,7 @@ def process_chunking(content, doc_title="TT48_2024"):
                     "content": full_text,
                     "metadata": {
                         "doc_title": doc_title,
-                        "hierarchy": {"chapter": None, "section": None, "article": "Footer"},
+                        "hierarchy": {"chapter": None, "section": None, "article": None},
                         "summary_context": f"{doc_title} - Kết bài/Phụ lục"
                     }
                 })

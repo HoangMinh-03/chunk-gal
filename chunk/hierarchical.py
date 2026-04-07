@@ -11,17 +11,18 @@ HIERARCHY_CONFIG = [
     {"name": "khoan", "label": "Khoản", "pattern": re.compile(r'^(?:#+\s*)?(?:- )?(?:\**)(?:\d+)\.\s+', re.I | re.M)}
 ]
 
+# Optimized patterns for bad OCR cases (flexible spaces, common typos)
 FOOTER_PATTERNS = [
-    re.compile(r'^Nơi nhận:', re.I | re.M),
-    re.compile(r'^KT\.\s+', re.I | re.M),
-    re.compile(r'^TM\.\s+', re.I | re.M),
-    re.compile(r'^THỐNG ĐỐC', re.I | re.M),
-    re.compile(r'^BỘ TRƯỞNG', re.I | re.M),
-    re.compile(r'^CHỦ TỊCH', re.I | re.M),
-    re.compile(r'^PHỤ LỤC', re.I | re.M),
-    re.compile(r'^Mẫu số:', re.I | re.M),
-    re.compile(r'^TỜ KHAI', re.I | re.M),
-    re.compile(r'^BIÊN BẢN', re.I | re.M),
+    re.compile(r'Nơi nh[ậâ]n:', re.I | re.M),
+    re.compile(r'KT\.\s*', re.I | re.M),
+    re.compile(r'TM\.\s*', re.I | re.M),
+    re.compile(r'THỐNG ĐỐC', re.I | re.M),
+    re.compile(r'BỘ TRƯỞNG', re.I | re.M),
+    re.compile(r'CHỦ TỊCH', re.I | re.M),
+    re.compile(r'PHỤ LỤC', re.I | re.M),
+    re.compile(r'Mẫu số:', re.I | re.M),
+    re.compile(r'TỜ KHAI', re.I | re.M),
+    re.compile(r'BIÊN BẢN', re.I | re.M),
 ]
 
 def process_hierarchical_chunking(content, doc_title, config):
@@ -29,9 +30,8 @@ def process_hierarchical_chunking(content, doc_title, config):
     content = content.replace('\r\n', '\n')
     
     # Granular split: split before any major marker
-    # We use a positive lookahead to keep the marker in the next chunk
-    # Added comprehensive footer markers to the split pattern
-    footer_markers = r'Nơi nhận:|KT\.|TM\.|THỐNG ĐỐC|BỘ TRƯỞNG|CHỦ TỊCH|PHỤ LỤC|Mẫu số:|TỜ KHAI|BIÊN BẢN'
+    # Added comprehensive footer markers to the split pattern (matching patterns above)
+    footer_markers = r'Nơi nh[ậâ]n:|KT\.\s*|TM\.\s*|THỐNG ĐỐC|BỘ TRƯỞNG|CHỦ TỊCH|PHỤ LỤC|Mẫu số:|TỜ KHAI|BIÊN BẢN'
     split_pattern = rf'\n(?=(?:#+\s*)?(?:\**)(?:Điều|Mục|Chương|{footer_markers}))'
     blocks = re.split(split_pattern, content)
     

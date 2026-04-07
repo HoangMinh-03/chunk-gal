@@ -2,10 +2,10 @@ import os
 import json
 import argparse
 import re
-from hierarchical import process_hierarchical_chunking, LEGAL_CONFIG
-from structure_chunker import process_structure_chunking
-from force_chunker import process_chunking as process_force_chunking
-from overlap_chunker import process_overlap_chunking
+from chunk.hierarchical import process_hierarchical_chunking, HIERARCHY_CONFIG
+from chunk.structure import process_structure_chunking
+from chunk.force import process_chunking as process_force_chunking
+from chunk.overlap import process_overlap_chunking
 
 def detect_level(content):
     """
@@ -17,15 +17,16 @@ def detect_level(content):
     """
     # Level 1 check: Look for strong hierarchical markers (Chương, Mục, Điều)
     # Using LEGAL_CONFIG patterns
-    if any(level["pattern"].search(content) for level in LEGAL_CONFIG[:3]): # Exclude 'khoan' for level 1 detection to be sure
+    if any(level["pattern"].search(content) for level in HIERARCHY_CONFIG[:3]): # Exclude 'khoan' for level 1 detection to be sure
         return 1
 
     # Level 2 check: Look for Markdown headers (at least one # at start of line)
     if re.search(r'^#+ ', content, re.MULTILINE):
         return 2
 
-    # Level 3 check: Look for text markers without # headers (more flexible search)
-    force_markers = [r'\n\s*Điều \d+', r'\n\s*Chương [IVX\d]+', r'\n\s*Mục \d+']
+    # Level 3 check: Look for text markers (flexible search for OCR bad cases)
+    # We look for "Điều X." or "Chương X." or "Mục X." anywhere in the text
+    force_markers = [r'Điều \d+', r'Chương [IVX\d]+', r'Mục \d+']
     if any(re.search(m, content, re.IGNORECASE) for m in force_markers):
         return 3
 
@@ -67,7 +68,7 @@ def main():
     
     if level == 1:
         print("Using Hierarchical Chunker...")
-        chunks = process_hierarchical_chunking(content, doc_title, LEGAL_CONFIG)
+        chunks = process_hierarchical_chunking(content, doc_title, HIERARCHY_CONFIG)
         method_used = "hierarchical"
         # Check if we actually got meaningful chunks (more than just 1 big chunk)
         if len(chunks) <= 1:
