@@ -1,7 +1,7 @@
 Chạy chương trình thông qua file `main.py`:
 
 ```bash
-python main.py "đường_dẫndẫn_đếnđến_file.md" --output_dir "result" --title "Ten_Tai_Lieu"
+python main.py "file_path" --output_dir "result" --title "Ten_Tai_Lieu"
 ```
 
 **Các tham số:**
