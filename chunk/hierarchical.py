@@ -2,6 +2,7 @@ import os
 import re
 import json
 import uuid
+from chunk.table import process_content_with_tables
 
 # Robust National Motto Regex
 QUOC_HIEU_REGEX = r"C[ỘOÔ]NG\s+H[ÒOÓÔ][AÀÁẠ]?\s+X[ÃAẢẠ]\s+H[ỘOÔ]I\s+CH[ỦUŨỦ]+\s+N\s*GH[ĨIÍÌỊA]+A?\s+V[IỆEÊÌÍỊ]+T\s+N[AÀÁẠ]M"
@@ -115,18 +116,11 @@ def process_hierarchical_chunking(content, doc_title, config):
                             "level_4": current_state.get("khoan")
                         }
                         
-                        all_chunks.append({
-                            "id": str(uuid.uuid4()),
-                            "content": sb,
-                            "metadata": {
-                                "doc_title": current_doc_title,
-                                "hierarchy": hierarchy,
-                                "extra": {}
-                            }
-                        })
+                        # Use the smart table processor
+                        all_chunks.extend(process_content_with_tables(sb, current_doc_title, hierarchy))
                     continue
 
-            # 5. Default chunk creation
+            # 5. Default chunk creation (using the smart table processor)
             hierarchy = {
                 "level_1": current_state.get("chuong"),
                 "level_2": current_state.get("muc"),
@@ -134,14 +128,6 @@ def process_hierarchical_chunking(content, doc_title, config):
                 "level_4": current_state.get("khoan")
             }
             
-            all_chunks.append({
-                "id": str(uuid.uuid4()),
-                "content": block,
-                "metadata": {
-                    "doc_title": current_doc_title,
-                    "hierarchy": hierarchy,
-                    "extra": {}
-                }
-            })
+            all_chunks.extend(process_content_with_tables(block, current_doc_title, hierarchy))
             
     return all_chunks

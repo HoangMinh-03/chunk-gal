@@ -1,1 +1,280 @@
-CÔNG TY CỔ PHẦN SỮA VIỆT NAM ------------------ Số: 01/NQ-CTS.ĐHĐCĐ/2025 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc ------------- TP. Hồ Chí Minh, ngày 25 tháng 04 năm 2025 NGHỊ QUYẾT ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2025 CÔNG TY CỔ PHẦN SỮA VIỆT NAM Căn cứ: - - - - Luật Doanh nghiệp số 59/2020/QH14 được Quốc hội Nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam thông qua ngày 17 tháng 06 năm 2020, và các văn bản sửa đổi, bổ sung tại từng thời điểm; Điều lệ hiện hành của Công ty Cổ phần Sữa Việt Nam (“Điều lệ”); Tài liệu họp Đại hội đồng cổ đông thường niên năm 2025 của Công ty Cổ phần Sữa Việt Nam; Biên bản họp Đại hội đồng cổ đông thường niên năm 2025 số: 01/BBH CTS.ĐHĐCĐ/2025 ngày 25 tháng 04 năm 2025 của Công ty Cổ phần Sữa Việt Nam. QUYẾT NGHỊ: Điều 1: Đại hội đồng cổ đông thường niên năm 2025 (gọi tắt là “ĐHĐCĐ”) của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công ty”) đã thông qua Nghị quyết này với các nội dung sau đây: 1. BÁO CÁO TÀI CHÍNH NĂM 2024 ĐÃ KIỂM TOÁN ĐHĐCĐ phê duyệt Báo cáo tài chính năm 2024 đã được Công ty TNHH KPMG kiểm toán. 2. BÁO CÁO CỦA HỘI ĐỒNG QUẢN TRỊ (“HĐQT”) CHO NĂM 2024 ĐHĐCĐ phê duyệt Báo cáo của HĐQT cho năm 2024 gồm: - Báo cáo hoạt động của HĐQT và thành viên độc lập HĐQT năm 2024. - Báo cáo của Ủy ban Kiểm toán và thành viên độc lập trong UBKT năm 2024. 3. HOÀN NHẬP SỐ DƯ CỦA QUỸ ĐẦU TƯ PHÁT TRIỂN VỀ LỢI NHUẬN SAU THUẾ CHƯA PHÂN PHỐI VÀ NGỪNG TRÍCH LẬP QUỸ ĐẦU TƯ PHÁT TRIỂN TỪ NĂM 2025. ĐHĐCĐ phê duyệt các nội dung sau: - - Hoàn nhập toàn bộ số dư hiện tại của Quỹ Đầu tư phát triển trên báo cáo tài chính riêng đã được kiểm toán tại ngày 31/12/2024 về Lợi nhuận sau thuế chưa phân phối của Công ty. Ngừng trích lập Quỹ Đầu tư phát triển kể từ năm 2025. Trang 1/4 4. CHI TRẢ CỔ TỨC CỦA NĂM TÀI CHÍNH 2024 ĐHĐCĐ phê duyệt mức chi trả cổ tức của năm tài chính 2024 như sau: Tổng mức cổ tức chi trả bằng tiền năm 2024 là 43,5% mệnh giá, tương đương 4.350 đồng/cổ phần. Trong đó: - Cổ tức đã được chi trả tạm ứng cho cổ đông: Diễn giải Mức cổ tức (đồng/cổ phần) Tổng cổ tức (tỷ đồng) Đã tạm ứng đợt 1 1.500 3.135 Ngày đăng ký cuối cùng Ngày chi trả Đã tạm ứng đợt 2 25/09/2024 24/10/2024 500 1.045 - 27/12/2024 28/02/2025 Cổ tức còn lại của năm 2024 là 23,5% (tương đương 2.350 đồng/cổ phiếu). ĐHĐCĐ giao cho HĐQT quyết định mức cổ tức và thời gian chi trả cổ tức từng đợt còn lại của năm 2024 trong thời hạn 6 tháng kể từ ngày kết thúc họp Đại hội đồng cổ đông thường niên 2025 (ngày 25/04/2025). Nguồn chi trả sẽ lấy từ “Lợi nhuận sau thuế chưa phân phối” trên báo cáo tài chính của Công ty được công bố theo quý gần nhất trước ngày chi trả. 5. KẾ HOẠCH DOANH THU, LỢI  NHUẬN CỦA NĂM TÀI CHÍNH 2025 (HỢP NHẤT) ĐHĐCĐ phê duyệt kế hoạch doanh thu và lợi nhuận năm 2025 (hợp nhất) của Công ty theo Chuẩn mực kế toán Việt Nam như sau: HỢP NHẤT (Tỷ đồng) Kế hoạch Thực hiện Thay đổi Giá trị 2025 Tổng doanh thu 64.505 2024 61.824 % Lợi nhuận trước thuế 2.681 12.102 11.600 4,3% Lợi nhuận sau thuế 502 9.680 4,3% 9.453 227 2,4% 6. KẾ HOẠCH PHÂN PHỐI LỢI NHUẬN (CỔ TỨC) CỦA NĂM TÀI CHÍNH 2025 ĐHĐCĐ phê duyệt kế hoạch phân phối lợi nhuận (cổ tức) của năm tài chính 2025 như sau: - - - - Mức cổ tức bằng tiền năm 2025 tối thiểu bằng 50% kế hoạch lợi nhuận sau thuế hợp nhất năm 2025. Nguồn chi trả cổ tức: Lợi nhuận sau thuế chưa phân phối theo báo cáo tài chính của Công ty được công bố theo quý gần nhất trước ngày chi trả. Giao cho HĐQT quyết định việc tạm ứng cổ tức, mức cổ tức tạm ứng và thời gian tạm ứng cổ tức của từng đợt, nhưng phải đảm bảo phù hợp với kế hoạch cổ tức ở trên. Mức cổ tức bằng tiền chính thức của năm 2025 sẽ được HĐQT trình tại cuộc họp ĐHĐCĐ thường niên năm 2026. Trang 2/4 7. LỰA CHỌN ĐƠN VỊ KIỂM TOÁN ĐỘC LẬP CHO NĂM TÀI CHÍNH 2025 ĐHĐCĐ phê duyệt danh sách các đơn vị kiểm toán độc lập và giao cho HĐQT lựa chọn đơn vị kiểm toán độc lập cho năm tài chính 2025 là một trong bốn công ty kiểm toán trong danh sách sau đây: - - - - Công ty TNHH KPMG (KPMG). Công ty TNHH PwC (Việt Nam) (PwC). Công ty TNHH Ernst & Young Việt Nam (E&Y). Công ty TNHH Deloitte Việt Nam. 8. TỔNG THÙ LAO VÀ LỢI ÍCH KHÁC CHO HĐQT TRONG NĂM 2025 ĐHĐCĐ phê duyệt tổng thù lao và các lợi ích cho HĐQT trong năm 2025 là 25 tỷ đồng (với cơ cấu 11 thành viên). Thù lao và các lợi ích cho HĐQT sẽ được tính và chi trả tương ứng với số lượng thành viên thực tế của HĐQT. 9. ĐIỀU CHỈNH ĐIỀU LỆ CỦA CÔNG TY ĐHĐCĐ phê duyệt việc sửa đổi Điều 38 Điều lệ hiện hành của Công ty để phù hợp với việc ngừng trích lập Quỹ ĐTPT được trình bày tại “Vấn đề 5” nêu trên. Theo đó, Điều 38 Điều lệ của Công ty sẽ được điều chỉnh như sau: Nội dung hiện tại Nội dung sau điều chỉnh “Điều 38. Trích lập Quỹ Hàng năm, Công Ty sẽ phải trích từ lợi nhuận sau thuế của mình: (i) mười phần trăm (10%) vào Quỹ khen thưởng, phúc lợi và (ii) mười phần trăm (10%) vào Quỹ đầu tư phát triển. Tỷ lệ (%) trích lập các quỹ có thể thay đổi theo kiến nghị của Hội đồng quản trị và được Đại hội đồng cổ đông phê chuẩn.” “Điều 38. Trích lập Quỹ Hàng năm, Công Ty sẽ phải trích từ lợi nhuận sau thuế của mình mười phần trăm (10%) vào Quỹ khen thưởng, phúc lợi. Tỷ lệ (%) trích lập quỹ có thể thay đổi theo kiến nghị của Hội đồng quản trị và được Đại hội đồng cổ đông phê chuẩn.” Đồng thời, ĐHĐCĐ thông qua bản Điều lệ đã cập nhật nội dung điều chỉnh Điều 38 nêu trên để thay thế cho bản Điều lệ đã được ĐHĐCĐ thông qua ngày 25/04/2023 (như dự thảo đính kèm). 10. MIỄN NHIỆM TƯ CÁCH THÀNH VIÊN HĐQT – ÔNG LEE MENG TAT ĐHĐCĐ phê duyệt việc miễn nhiệm tư cách thành viên HĐQT của Ông Lee Meng Tat kể từ ngày 25/04/2025. 11. MIỄN NHIỆM TƯ CÁCH THÀNH VIÊN HĐQT – ÔNG HOÀNG NGỌC THẠCH ĐHĐCĐ phê duyệt việc miễn nhiệm tư cách thành viên HĐQT của Ông Hoàng Ngọc Thạch kể từ ngày 25/04/2025. Trang 3/4 12. BẦU BỔ SUNG THÀNH VIÊN HĐQT ĐHĐCĐ đã bầu bổ sung hai (02) thành viên HĐQT của Công ty nhiệm kỳ 2022-2026 kể từ ngày 25/04/2025 như sau: - - Bà Tongjai Thanachanan Ông Vũ Trí Thức Điều 2: Điều khoản thi hành 1. Nghị quyết này có hiệu lực kể từ ngày ký. 2. Cổ đông, Hội đồng Quản trị, Tổng Giám đốc và những người có liên quan có trách nhiệm thi hành Nghị quyết này. TM. ĐẠI HỘI ĐỒNG CỔ ĐÔNG CHỦ TỌA – CHỦ TỊCH HĐQT NGUYỄN HẠNH PHÚC Trang 4/4 1 CÔNG TY CỔ PHẦN SỮA VIỆT NAM ------------------ Số: 01/BBH-CTS.ĐHĐCĐ/2025 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc --------------------- BIÊN BẢN HỌP ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2025 -    Tên doanh nghiệp: CÔNG TY CỔ PHẦN SỮA VIỆT NAM (sau đây gọi là “Công ty”, “Vinamilk” hoặc “VNM”). -    Địa chỉ trụ sở chính: Số 10 Tân Trào, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh. -    Giấy chứng nhận đăng ký doanh nghiệp số: 0300588569 do Sở Kế hoạch và Đầu tư Tp. Hồ Chí Minh cấp lần đầu ngày 20/11/2003. - Thời gian khai mạc: 14 giờ 00 phút, Thứ Sáu ngày 25 tháng 04 năm 2025. -  Hình thức tổ chức họp Đại hội đồng cổ đông (“ĐHĐCĐ”): Đại hội trực tuyến. - Địa điểm tổ chức họp ĐHĐCĐ: Số 10 Tân Trào, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh. Cuộc họp Đại hội đồng cổ đông thường niên năm 2025 của Công ty Cổ phần Sữa Việt Nam đã được diễn ra với các nội dung như sau: I. THÀNH PHẦN THAM DỰ: Hội đồng Quản trị (“HĐQT”): Gồm tất cả 10/10 (100%) thành viên HĐQT sau đây: -       Ông Nguyễn Hạnh Phúc : Chủ tịch HĐQT;     -       Bà Mai Kiều Liên   : Thành viên HĐQT kiêm Tổng Giám đốc; -       Ông Alain Xavier Cany : Thành viên HĐQT; -       Ông Michael Chye Hin Fah : Thành viên HĐQT; -       Bà Đặng Thị Thu Hà : Thành viên HĐQT; -       Ông Đỗ Lê Hùng : Thành viên HĐQT; -       Ông Lê Thành Liêm : Thành viên HĐQT, Giám đốc Điều hành Tài chính; -       Ông Lee Meng Tat : Thành viên HĐQT; -       Ông Hoàng Ngọc Thạch : Thành viên HĐQT; -       Bà Tiêu Yến Trinh : Thành viên HĐQT. Ban Điều hành: gồm các Giám đốc điều hành (“GĐĐH”) của Công ty, cụ thể: -       Bà Bùi Thị Hương               : Giám đốc điều hành Nhân sự - Hành chính & Đối ngoại; -       Ông Đoàn Quốc Khánh       : Giám đốc điều hành Phát triển vùng nguyên liệu; -       Ông Nguyễn Quang Trí       : Giám đốc điều hành Marketing; -       Ông Lê Hoàng Minh            : Giám đốc điều hành Sản xuất. Cổ đông: gồm các Cổ đông và Người được ủy quyền của Cổ đông tham dự họp theo danh sách đính kèm Biên bản họp này. Kiểm toán độc lập: Bà Nguyễn Thùy Ninh và Ông Hà Vũ Định, đại diện cho Công ty TNHH KPMG - đơn vị kiểm toán độc lập cho năm tài chính 2024 của Vinamilk. II. DIỄN TIẾN ĐẠI HỘI A. THỦ TỤC KHAI MẠC CUỘC HỌP ĐHĐCĐ: 1. Tuyên bố lý do Ông Đồng Quang Trung – thay mặt Ban tổ chức ĐHĐCĐ tuyên bố lý do, giới thiệu đại biểu tham dự họp ĐHĐCĐ. 2. 3. 4. 5. Báo cáo kết quả kiểm tra tư cách cổ đông tham dự họp Ông Trương Anh Vũ - thay mặt Ban tổ chức ĐHĐCĐ công bố tỷ lệ cổ đông tham dự đại hội với kết quả như sau: -    - Tính đến thời điểm khai mạc đại hội lúc 14 giờ 00 phút ngày 25/04/2025, tổng số cổ đông tham dự đại hội là 503 cổ đông, đại diện cho 1.689.377.216 cổ phần, chiếm 80,83% tổng số cổ phần có quyền biểu quyết của Công ty (2.089.955.445 cổ phần). Căn cứ theo quy định tại Khoản 1 Điều 16 Điều lệ hiện hành của Công ty: với tỷ lệ tham dự họp là 80,83% tổng số cổ phần có quyền biểu quyết của Công ty, Cuộc họp ĐHĐCĐ thường niên năm 2025 của Công ty đã hợp pháp, hợp lệ và được phép tiến hành. Thành phần Chủ tọa đoàn Ông Đồng Quang Trung giới thiệu Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT làm Chủ tọa Cuộc họp (“Chủ tọa”), và các thành viên khác tham gia Chủ tọa đoàn gồm: -   Bà Mai Kiều Liên : Thành viên HĐQT kiêm Tổng Giám đốc; -   Bà Đặng Thị Thu Hà                     -   Ông Đỗ Lê Hùng                               -   Ông Alain Xavier Cany                  -   Ông Michael Chye Hin Fah : Thành viên HĐQT; : Thành viên HĐQT; : Thành viên HĐQT; : Thành viên HĐQT. Thư ký cuộc họp ĐHĐCĐ Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT – Chủ tọa cuộc họp giới thiệu Bà Lê Quang Thanh Trúc làm Thư ký của cuộc họp ĐHĐCĐ thường niên năm 2025. Thông qua thành phần Ban kiểm phiếu và Chương trình nghị sự Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT - Chủ tọa cuộc họp, đề nghị thành phần Ban kiểm phiếu và thông báo chương trình nghị sự (chương trình và nội dung) của cuộc họp ĐHĐCĐ thường niên năm 2025. Thành phần Ban kiểm phiếu gồm: 1. Ông Trương Anh Vũ - Trưởng Bộ phận Pháp lý – Trưởng Ban; 2. Bà Trần Thái Thoại Trân – Giám đốc Kiểm soát nội bộ & Quản lý rủi ro - Thành viên; 3. Bà Phạm Kim Phượng - Cổ đông cá nhân – Thành viên độc lập. Chương trình nghị sự của Cuộc họp ĐHĐCĐ thường niên năm 2025 gồm các vấn đề sau: 1      Báo cáo tài chính năm 2024 được kiểm toán 2      Báo cáo của HĐQT năm 2024 3      Hoàn nhập số dư của Quỹ Đầu tư phát triển về Lợi nhuận sau thuế chưa phân phối và ngừng trích lập Quỹ đầu tư phát triển từ năm 2025 4      Mức chi trả cổ tức cho năm tài chính 2024 5      Kế hoạch doanh thu – lợi nhuận năm 2025 (hợp nhất) 6      Kế hoạch chi trả cổ tức cho năm tài chính 2025 2 7      Lựa chọn công ty kiểm toán độc lập cho năm tài chính 2025 8      Tổng thù lao và các lợi ích khác của HĐQT năm 2025 9      Điều chỉnh Điều lệ Công ty 10    Miễn nhiệm tư cách thành viên HĐQT – Ông Lee Meng Tat 11    Miễn nhiệm tư cách thành viên HĐQT – Ông Hoàng Ngọc Thạch 12    Bầu bổ sung thành viên HĐQT Sau khi Ông Nguyễn Hạnh Phúc đề nghị thành phần Ban kiểm phiếu và giới thiệu Chương trình nghị sự, Ông Đồng Quang Trung đã hướng dẫn đại hội thực hiện biểu quyết để thông qua: (1) Thành phần Ban Kiểm phiếu; và (2) Chương trình nghị sự với kết quả biểu quyết như sau: Tán thành Không tán thành STT Nội dung Tổng số phiếu Tỷ lệ Không có ý kiến Tỷ lệ (*) 1 Thành phần Ban Kiểm phiếu 1.685.408.172 Tổng số phiếu (*) Tỷ lệ Tổng số phiếu (*) 100,00% 2 Chương trình 1.685.399.531 0 0,00% 30.335 0,00% 100,00% 13.100 0,00% 25.876 0,00% nghị sự (*) tính trên tổng số cổ phần có quyền biểu quyết của các Cổ đông tham dự và thực hiện biểu quyết (mỗi cổ phần tương ứng với một phiếu). Với kết quả biểu quyết như trên, thành phần Ban kiểm phiếu và Chương trình nghị sự của cuộc họp ĐHĐCĐ thường niên năm 2025 của Công ty đã được thông qua. B.   CÁC NỘI DUNG TRÌNH ĐHĐCĐ PHÊ DUYỆT 1. Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT trình bày Báo cáo tài chính năm 2024 đã được kiểm toán: Nội dung chi tiết được trình bày trong Báo cáo Thường niên năm 2024 đã được đăng tải trên website của Công ty. 2. 3. Các thành viên HĐQT trình bày Báo cáo của HĐQT năm 2024 như sau: a)   Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT trình bày các nội dung chính của Báo cáo hoạt động của HĐQT và thành viên độc lập HĐQT năm 2024. Vì nội dung chi tiết của báo cáo này đã được trình bày chi tiết từ trang 60 đến trang 70 và tại mục Báo cáo Quản trị Công ty từ trang 120 đến trang 161 của Báo cáo thường niên 2024. Do đó, ông Phúc chỉ trình bày tóm tắt nội dung của báo cáo này tại Đại hội. b)   Ông Đỗ Lê Hùng – Thành viên HĐQT, Chủ tịch Ủy Ban Kiểm toán trình bày các nội dung chính của Báo cáo của Ủy Ban kiểm toán và thành viên độc lập trong Ủy Ban kiểm toán năm 2024. Vì nội dung chi tiết của báo cáo này đã được trình bày chi tiết từ trang 71 đến trang 74 và tại mục Báo cáo Quản trị Rủi ro từ trang 161 đến trang 165 của Báo cáo thường niên 2024. Do đó, ông Hùng chỉ trình bày tóm tắt nội dung của báo cáo này tại Đại hội. c)   Bà Mai Kiều Liên – Thành viên HĐQT kiêm Tổng Giám đốc trình bày các nội dung chính về tình hình hoạt động sản xuất, kinh doanh 2024 của Công ty. Bà Mai Kiều Liên – Thành viên HĐQT kiêm Tổng Giám đốc tiếp tục trình bày: 3 a)   Kế hoạch doanh thu - lợi nhuận năm 2025 (hợp nhất); và b)  Hoàn nhập số dư của Quỹ Đầu tư phát triển về Lợi nhuận sau thuế chưa phân phối và ngừng trích lập Quỹ đầu tư phát triển từ năm 2025. 4. 5. 6. Bà Đặng Thị Thu Hà – Thành viên HĐQT trình bày hai (02) nội dung sau: a) Mức chi trả cổ tức cho năm tài chính 2024; b) Kế hoạch chi trả cổ tức cho năm tài chính 2025. Ông Đỗ Lê Hùng – Thành viên HĐQT trình bày hai (02) nội dung sau: a) Lựa chọn đơn vị kiểm toán độc lập cho năm tài chính 2025; b) Tổng thù lao và các lợi ích khác của HĐQT năm 2025. Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT trình bày bốn (04) nội dung cuối như sau: a)    Điều chỉnh Điều lệ Công ty; b)    Miễn nhiệm tư cách thành viên HĐQT đối với Ông Lee Meng Tat; c)    Miễn nhiệm tư cách thành viên HĐQT đối với Ông Hoàng Ngọc Thạch; d)    Bầu bổ sung thành viên HĐQT. Chi tiết các vấn đề trình ĐHĐCĐ phê duyệt: như được trình bày đầy đủ tại tài liệu họp ĐHĐCĐ thường niên năm 2025 được đăng tải trên website của Công ty. C. THẢO LUẬN: Ông Nguyễn Hạnh Phúc – Chủ tịch HĐQT - chủ tọa Đại hội điều khiển Đại hội tiến hành thảo luận. Cổ đông đặt câu hỏi hoặc gửi câu hỏi thông qua ứng dụng đàm thoại, nhắn tin trực tuyến dành riêng cho chương trình. Tổng cộng đã có 18 câu hỏi/góp ý được thảo luận và trả lời tại Đại hội. Sau đây là trích dẫn một số nội dung chính được thảo luận: 4 5 STT Câu hỏi Trả lời 1.  Ngoài phân khúc sữa hạt đã thành công, phân khúc nào đang ghi nhận tăng trưởng doanh thu cao nhất/yếu nhất sau chiến dịch tái định vị thương hiệu? Bà Mai Kiều Liên: Ngoài sữa hạt, sữa chua uống men sống và sữa tươi Green Farm có mức tăng trưởng rất tốt trong năm 2024. Bên cạnh đó, sữa đặc cũng tăng trưởng 2 chữ số dù không thuộc phạm vi tái định vị thương hiệu nhờ hàng loạt cải tiến về dung tích và quy cách bao bì tiện lợi. Sữa bột trẻ em chưa tăng trưởng như các ngành hàng khác vì VNM mới tiến hành tái định vị sản phẩm vào cuối 2024 và đầu 2025. Sau tái định vị, chúng tôi nhận thấy phản ứng từ thị trường & người tiêu dùng (NTD) rất khả quan, các dòng sản phẩm chính của Sữa bột trẻ em đã có tăng trưởng tích cực. 2.  Công ty có thể chia sẻ về tình hình cạnh tranh ngành sữa Việt Nam nói chung và ngành sữa bột nói riêng trong trường hợp Việt Nam đưa thuế nhập khẩu các sản phẩm từ Mỹ về 0% không? Bà Mai Kiều Liên: - Ảnh hưởng sẽ không đáng kể. - Sữa nước (“SN”): Hiện thuế nhập khẩu là 2%-15%; nếu thuế suất về 0% có thay đổi đáng kể về thuế suất, nhưng SN nhập khẩu khó cạnh tranh với sản phẩm nội địa (tươi hơn, vận chuyển thuận lợi hơn nhiều). - Sữa bột (“SB”): Hiện thuế nhập khẩu là 10% nhưng giá bán chênh lệch giữa các phân khúc SB khác nhau rất lớn. Sữa Mỹ nhập khẩu thuộc phân khúc cao cấp/siêu cao cấp; nếu thuế suất về 0% thì giá có rẻ hơn đôi chút, nhưng cũng không rẻ hơn được nhiều so với các phân khúc khác. Cạnh tranh trên thị trường SB đã định hình từ lâu, sự thay đổi giá không đáng kể sẽ không gây ra biến động lớn. Ngoài ra, với tình hình sức mua chung chưa cải thiện trong bối cạnh kinh tế nhiều biến động như hiện nay, các sản phẩm ở phân khúc cao cấp/siêu cao cấp từ Mỹ khó thay đổi được cục diện chung của thị trường 3.  Cổ đông Tô Hồng Thế Nếu Vinamilk ổn định hơn với đội ngũ lãnh đạo trẻ do cô Liên, chú Phúc dìu dắt thì cô, chú có thể giành thời gian chia sẻ hướng dẫn cho các doanh nhân, nhà quản lý trẻ ngoài tập đoàn đặc biệt là các công ty, tổng công ty Bà Mai Kiều Liên: Phát triển của một dân tộc, doanh nghiệp hay cộng đồng doanh nghiệp là tiếp nối thế hệ đi trước, truyền đạt lại kinh nghiệm cho thế hệ sau. Chúng tôi rất sẵn lòng nếu các bạn có nhu cầu. 6 nhà nước khác dưới góc độ quản lý và phát triển chung của công ty không ạ? Chỉ khi chúng ta có thật nhiều tập đoàn hoạt động hiệu quả như Vinamilk thì kinh tế của chúng ta mới vững mạnh, nguồn đổ vào ngân sách mới tăng và ổn định. và đây là tình yêu nước, niềm tự hào dân tộc và cần có những người tài giỏi như Cô, Chú 4.  Cổ đông Lê Đình Khánh Với xu hướng già hóa dân số tại Việt Nam, Vinamilk có kế hoạch cụ thể nào để phát triển sản phẩm và tiếp thị cho người trung niên và cao tuổi không? Liệu công ty có cân nhắc hợp tác với các tổ chức y tế hoặc trung tâm dưỡng lão để tăng cường phân phối không? Bà Mai Kiều Liên: - Tái cấu trúc danh mục sữa bột người lớn hiện tại, tái định vị thương hiệu, cải tiến công thức, thay mới bao bì là phần cuối trong tái định vị thương hiệu. - Công ty có kế hoạch khai thác các phân khúc nhu cầu mới của nhóm người tiêu dùng (“NTD”) lớn tuổi, phát triển các sản phẩm mới tương ứng trong thời gian tới. - Công ty đã và đang kết hợp với các cơ quan y tế, các chuyên gia dinh dưỡng nhằm nghiên cứu phát triển các giải pháp dinh dưỡng chuyên biệt dành cho người bệnh, người cao tuổi. Phối hợp với hội Người cao tuổi và các cơ sở y tế tăng cường các chương trình truyền thông, chăm sóc sức khoẻ dinh dưỡng nhắm đến đối tượng người cao tuổi. 5.  Cổ đông Trần Quang Quý - Chiến tranh thương mại xảy ra có ảnh hưởng đến chiến lược kinh doanh của VNM như thế nào? - Nhà máy sữa ở Mỹ hoạt động thế nào? Đóng góp bao nhiêu % lợi nhuận cho công ty? Bà Mai Kiều Liên: - Thị trường nội địa là thị trường chính của Vinamilk, xuất khẩu tăng trưởng nhanh nhưng tỷ trọng vẫn còn nhỏ. Thế giới hiện nay là bình thông nhau và ai cũng muốn đất nước mình phát triển, vì vậy tôi tin là tình hình sẽ sớm ổn định và sẽ tươi sáng. - Nhà máy tại Mỹ: Driftwood nắm bắt tốt các cơ hội bán hàng ngoài kênh trường học chủ lực và ghi nhận doanh thu tăng trưởng trong 2024. Doanh thu trên 120 triệu USD trên tổng doanh thu 2.5-2.6 tỷ USD của VNM, tức khoảng 5% tổng doanh thu. 6.  Cổ đông UBS Bà Mai Kiều Liên: 7 - Ảnh hưởng của thuế suất Mỹ? - Giá NVL? Ảnh hưởng lên lợi nhuận của VNM? - 36% của SCIC có khả năng chuyển cho Bộ Công an hoặc Bộ Tài chính không? - Hiện tại Công ty vẫn đang quan sát tình hình đàm phán, chưa có ảnh hưởng trực tiếp nhưng có ảnh hưởng về tâm lý NTD. Thuế suất tăng có thể dẫn đến công việc và các ngành xuất khẩu như may mặc thủy sản sẽ bị ảnh hưởng, vì vậy NTD có xu hướng tiết kiệm và chọn lọc sản phẩm cần thiết. Tuy nhiên, tình hình sẽ ổn định lại nếu vấn đề được giải quyết.  - VNM đáp ứng tất cả các phân khúc từ giá rẻ đến cao cấp/ siêu cao cấp cho các nhu cầu của NTD. - Nguyên vật liệu (“NVL”) nhập từ châu Âu và Mỹ: một số đã chốt đến hết Quý 2, một số chốt đến Quý 3, tăng 4.2%. Trong Quý 1, giá NVL tăng khoảng 4,5% nhưng VNM mới tăng giá khoảng 2,6% Bà Đăng Thị Thu Hà: - Mobifone & FPT Telecom: vốn chuyển về Bộ Công an do ngành nghề đặc biệt. Đối với các ngành nghề khác: SCIC vẫn là đại diện vốn. 7.  Công ty chứng khoán SSI - Tiêu thụ sữa ở nông thôn và thành thị vừa qua và sắp tới? Tỷ lệ sinh ở Việt Nam có xu hướng giảm? Bà Mai Kiều Liên - Thành thị tăng trưởng hơn, nông thôn có xu hướng giảm do tâm lý co cụm / tiết kiệm của NTD, vấn đề này sẽ được giải tỏa khi tình hình rõ ràng. - Tỷ lệ sinh giảm đã xảy ra vài năm, đồng thời nhà nước tăng thời gian nghỉ thai sản lên 6 tháng và khuyến khích dùng sữa mẹ, do đó Sữa Bột Trẻ Em không tăng trưởng như giai đoạn trước → cần có chiến lược ứng xử đối với sữa cho mẹ bầu và trẻ em trên 6 tháng tuổi. 8.  Cổ đông Tô Hồng Thế Tôi vừa là một cổ đông (nhỏ) của tập đoàn vừa là một khách hàng sử dụng các sản phẩm của công ty. Tôi thấy các sản phẩm của công ty có chất lượng rất tốt (ví dụ như con tôi không bị nôn trớ khi dùng sữa bột của công ty). Công ty có dự kiến mở rộng thị trường xuất khẩu Bà Mai Kiều Liên - Sữa bột trẻ em (“SBTE”): VNM áp dụng những nghiên cứu mới, ví dụ như bổ sung 6 HMO vào SBTE để giống nhất với sữa mẹ, bổ sung chất để tăng sức đề kháng, v.v. - Xuất khẩu: ban đầu cũng là xuất khẩu SBTE, nhờ vào danh tiếng và các giải thưởng, xuất khẩu SBTE tăng dần. 8 hay gia tăng số lượng sản phẩm, sản lượng hàng hóa xuất khẩu mới không? 9.  Cổ đông Nguyễn Hồng Dương Vừa rồi xảy ra vụ sữa giả lớn trên thị trường. Sự việc này tác động trực tiếp đến ngành sữa và VNM như thế nào? Công ty có các kế hoạch phản ứng nào với sự việc này? Bà Mai Kiều Liên: Đây là tin mừng cho công ty sản xuất chân chính. VNM sản xuất SBTE từ 1988 và xuất khẩu SBTE từ 1997. Sản phẩm SBTE cũng đã có tên tuổi và chất lượng là bảo chứng cho VNM. 10.  Cổ đông Trần Văn Thiện Khi nào nhà máy Dielac di dời? Bà Mai Kiều Liên Tỉnh Đồng Nai đã có quyết định năm 2025. VNM đang làm việc với tỉnh và đề nghị di dời trong 2 năm do nhà máy sữa bột có tháp sấy. VNM đã chuẩn bị sẵn đất ở Bình Dương để di dời. 11.  Cổ đông HSC - Chiến lược thâm nhập vào những sản phẩm ngoài sữa để tận dụng hệ thống phân phối và thương hiệu VNM? - Tiến độ của trang trại ở Lào, quy mô đàn bò hiện tại ở Lào, khả năng mở rộng quy mô đàn bò trong thời gian sắp tới? Bà Mai Kiều Liên - Ngoài sữa, Vinamilk còn có sữa hạt, nước trái cây, kem, v.v. - Hết tháng 5, sẽ có khoảng 800 cửa hàng Giới thiệu Sản phẩm (“CH GTSP”). Các sản phẩm mới sẽ được giới thiệu tại CH GTSP cũng như siêu thị. - Trang trại Lào: 4.000 con bò, sản lượng 35 lit/con/ngày. Sản lượng cao, chất lượng tốt do đây là bình nguyên với khí hậu mát phù hợp cho bò, phù hợp để phát triển các sản phẩm mới của Vinamilk. 12.  Cổ đông Nguyễn Bảo Hưng - Xin cho biết quy mô đàn bò của VNM hiện tại, và kế hoạch phát triển đàn bò các năm sắp tới theo hướng tự chủ hay hướng mua ngoài? - Dự kiến đến năm nào sản lượng sữa tươi tự sản xuất và thu mua trong nước có thể đáp ứng được 100% nhu cầu của VNM tương ứng lượng sữa tươi đang bán ra thị trường? Bà Mai Kiều Liên - Hiện VNM đang quản lý 130.000 con bò; trong đó của VNM và MCM: 40.000 con. Sản lượng sữa: khoảng 1,1 triệu lit/ngày. Sản lượng này đáp ứng đủ 100% cho nhu cầu sữa tươi nguyên liệu của VNM cho các sản phẩm sữa tươi, sữa chua, v.v. - Xu hướng: tăng sữa nguyên liệu tại trại VNM, giảm thu mua từ nông dân do người nông dân giảm dần nuôi bò do đô thị hóa. 9 - Sẽ tăng sản lượng sữa tại các trang trại hiện có từ việc tăng năng suất sữa. Việc tìm thêm đất để làm trang trại mới ở Việt Nam là gần như không thể. 13.  Cổ đông Hồ Thị Ngọc Mai Quỹ đầu tư phát triển của công ty sau khi được nhập vào lợi nhuận sau thuế của công ty thì được sử dụng để chia cổ tức cho cổ đông hay để làm việc gì? Bà Mai Kiều Liên HĐQT sẽ bàn và trình ĐHĐCĐ quyết định về cổ tức, dựa trên nhu cầu tái đầu tư cho các năm tới. 14.  Cổ đông UBS - Sau một năm tái định vị thì VNM thay đổi ra sao? - Kế hoạch về tỷ lệ chi phí bán hàng và quản lý doanh nghiệp trong năm nay? - HĐQT có xem xét việc mua lại cổ phiếu không khi giá cổ phiếu giảm và lượng tiền mặt của VNM dồi dào? Bà Mai Kiều Liên - Tháng 4/2025 tăng tốt so với tháng 4/2024. Quá trình chuyển đổi sẽ luôn có những lúc khó khăn. Năm 2024 VNM tái định vị thương hiệu, tung sản phẩm mới. Quý 1/2025, Công ty thực hiện tái cấu trúc hệ thống phân phối, bao gồm đánh giá lại nhà phân phối (“NPP”) và đội ngũ bán hàng của VNM. Vì vậy, phải chấp nhận ảnh hưởng do thay đổi. Tuy nhiên, từ đầu tháng 4 đến nay tăng trưởng tốt, dự kiến tháng 4 năm nay tăng trưởng 2 con số so với tháng 4/2024.  - Những năm gần đây, VNM có vấn đề nội tại về hệ thống kinh doanh nội địa. Quý 1/2025, Công ty chấp nhận làm lại toàn bộ, tuyển người trẻ cho đội ngũ kinh doanh kênh truyền thống. Tôi đánh giá cải tổ đúng hướng. Cải tổ đội ngũ kinh doanh nội địa là cải tổ quan trọng nhất của VNM. - Chi phí: không thay đổi, do quản lý chi phí của VNM đã rất chặt chẽ. Chúng tôi yêu cầu mỗi khối tiết kiệm và tối ưu hóa chi phí mỗi năm để tăng lợi nhuận. - Mua cổ phiếu quỹ: HĐQT cũng đã xem xét giữa mua cổ phiếu và tăng cổ tức và quyết định tăng cổ tức năm 2024 lên 5%. Những năm gần đây, tỷ lệ cổ tức của VNM là trên 90% lợi nhuận sau thuế (LNST). 15.  Cổ đông Nguyễn Thế Văn Kế hoạch phát triển ra thị trường nước ngoài, thị trường nào là trọng tâm và chiến lược chính trong 2-3 năm tới? Bà Mai Kiều Liên - Công ty đáp ứng mọi nhu cầu, không giới hạn thị trường. VNM hiện đã đứng thứ 36 các doanh nghiệp sữa hàng đầu thế giới nên tên tuổi 10 cũng được biết đến ở nhiều thị trường. Lũy kế đến nay, Vinamilk đã xuất khẩu đến 63 quốc gia và vùng lãnh thổ khác nhau. 16.  Cổ đông Nguyễn Hà Minh Anh - Tỷ lệ tự chủ Thức ăn chăn nuôi đầu vào trong các trang trại và hộ gia đình chăn nuôi bò sữa liên kết của VNM? Dự kiến giá thu mua sữa của trang trại và các hộ gia đình liên kết có tăng trong 2025/2026 không? - Hiện công ty đã nhập khẩu sữa bột nguyên liệu đến tháng mấy và giá tăng khoảng bao nhiêu so với cùng kì? Công ty có kế hoạch điều chỉnh giá bán trong năm 2025/2026 với các dòng sản phẩm chính? - Tình hình triển khai kế hoạch tái định vị thương hiệu của MCM? - Dự án sữa Hưng đã khởi công xây dựng chưa và bao giờ dự kiến hoàn thành xong giai đoạn 1, nâng công suất thêm bao nhiêu %, tập trung vào các dòng sản phẩm chính nào? Bà Mai Kiều Liên - Giá thu mua của hộ nông dân cao hơn rất nhiều so với giá thành VNM tự sản xuất. Giá thu mua sữa đã tăng năm 2024, nên sẽ không tăng trong năm 2025. - Trang trại: thức ăn thô xanh 48%. Hộ chăn nuôi: thức ăn tinh: 100% do VNM bán và phân phối cho các hộ.  - MCM: 6/7/2025 sẽ công bố tái định vị thương hiệu. - Nhà máy Hưng Yên: hoạt động 2027, tập trung vào sữa nước. Vinamilk sẽ tạo ra một nhà máy tự động hoá như nhà máy ở Bình Dương để đảm bảo chất lượng sữa tươi, giá thành hạ để cung cấp cho thị trường miền Bắc. Trước mắt, Công ty sẽ di dời một số máy móc thiết bị từ nhà máy Tiên Sơn, và lấy chỗ ở nhà máy Tiên Sơn lắp đặt dây chuyền cho sản phẩm mới. 17.  Cổ đông Nguyễn Ngọc Nam Chính sách cổ tức này có được duy trì sau 2025 hay không? Bà Mai Kiều Liên Cổ tức không thấp hơn 50% LNST. Thực tế các năm gần đây đều chi trả trên 90% 18.  Cổ đông Phạm Anh Vũ Nước đóng chai tinh khiết có kế hoạch phát triển trong những năm sắp tới không vì tôi thấy sau khi thị trường bia giảm mạnh, thị trường nước đóng chai đặc biệt nước tinh khiết đang có cơ hội phát triển, nhưng rất khó mua nước tinh khiết Vinamilk ngoài thị trường. Bà Mai Kiều Liên Nước tinh khiết chai nhỏ cung cấp toàn quốc, nước tinh khiết bình lớn (20L) chỉ mới cung cấp ở khu vực phía Nam do chi phí vận chuyển cao. D.     CÔNG BỐ KẾT QUẢ BIỂU QUYẾT VÀ BẦU CỬ Dưới sự hướng dẫn của Ông Đồng Quang Trung, ĐHĐCĐ đã tiến hành biểu quyết để thông qua các nội dung trong Chương trình nghị sự và bầu cử thành viên HĐQT. Sau khi kiểm phiếu, Ông Trương Anh Vũ thay mặt Ban Kiểm phiếu công bố kết quả kiểm phiếu như sau: 1.    Kết quả kiểm phiếu biểu quyết: - Nguyên tắc chung: Mỗi cổ phần phổ thông sẽ tương ứng với một (01) phiếu biểu quyết; -     - Phương thức biểu quyết: biểu quyết điện tử (e-Voting); Tổng số Cổ đông tham dự và biểu quyết tại Đại hội là 549 cổ đông, đại diện cho 1.691.689.372 cổ phần có quyền biểu quyết. 11 12 Stt Nội dung Tổng số phiếu biểu quyết đối với từng vấn đề Tổng số phiếu hợp lệ Tổng số phiếu không hợp lệ Tán thành Không tán thành Không có ý kiến Tổng số phiếu Tỷ lệ (*) Tổng số phiếu Tỷ lệ (*) Tổng số phiếu Tỷ lệ (*) 1. Báo cáo tài chính năm 2024 được kiểm toán 1.691.689.372 1.691.689.372 0 1.680.915.460 99,36% 2.412 0,00% 10.771.500 0,64% 2. Báo cáo của HĐQT năm 2024 1.691.689.372 1.691.689.372 0 1.680.914.437 99,36% 2.412 0,00% 10.772.523 0,64% 3. Hoàn nhập số dư của Quỹ Đầu tư phát triển về Lợi nhuận sau thuế chưa phân phối và ngừng trích lập Quỹ đầu tư phát triển từ năm 2025 1.691.689.372 1.691.689.372 0 1.691.601.918 99,99% 29.412 0,00% 58.042 0,00% 4. Mức chi trả cổ tức cho năm tài chính 2024 1.691.689.372 1.691.689.372 0 1.691.650.225 100,00% 21.924 0,00% 17.223 0,00% 5. Kế hoạch doanh thu – lợi nhuận năm 2025 (hợp nhất) 1.691.689.372 1.691.689.372 0 1.680.920.037 99,36% 10.112 0,00% 10.759.223 0,64% 6. Kế hoạch chi trả cổ tức cho năm tài chính 2025 1.691.689.372 1.691.689.372 0 1.691.465.525 99,99% 212.224 0,01% 11.623 0,00% 7.   Lựa chọn công ty kiểm toán độc lập 1.691.689.372 1.691.689.372 0 1.506.492.259 89,05% 134.363.035 7,94% 50.834.078 3,00% 13 Stt Nội dung Tổng số phiếu biểu quyết đối với từng vấn đề Tổng số phiếu hợp lệ Tổng số phiếu không hợp lệ Tán thành Không tán thành Không có ý kiến Tổng số phiếu Tỷ lệ (*) Tổng số phiếu Tỷ lệ (*) Tổng số phiếu Tỷ lệ (*) cho năm tài chính 2025 8. Tổng thù lao và các lợi ích khác của HĐQT năm 2025 1.691.689.372 1.691.689.372 0 1.691.341.226 99,98% 220.323 0,01% 127.823 0,01% 9.   Điều chỉnh Điều lệ Công ty. 1.691.689.372 1.691.689.372 0 1.691.642.204 100,00% 1.812 0,00% 45.356 0,00% 10. Miễn nhiệm tư cách thành viên HĐQT – Ông Lee Meng Tat 1.691.689.372 1.691.689.372 0 1.691.623.587 100,00% 3.512 0,00% 62.273 0,00% 11. Miễn nhiệm tư cách thành viên HĐQT – Ông Hoàng Ngọc Thạch 1.691.689.372 1.691.689.372 0 1.691.620.977 100,00% 2.412 0,00% 65.983 0,00% (*) tính trên tổng số cổ phần có quyền biểu quyết của các Cổ Đông tham dự và thực hiện biểu quyết. Với kết quả biểu quyết nêu trên, căn cứ theo quy định tại Khoản 1 và Khoản 2 Điều 18 Điều lệ Công ty, các nội dung sau đây đã được ĐHĐCĐ thường niên năm 2025 thông qua: STT Nội dung đã được thông qua Tỷ lệ thông qua (*) 1 Báo cáo tài chính năm 2024 được kiểm toán 99,36% 2 Báo cáo của HĐQT năm 2024 99,36% 3 Hoàn nhập số dư của Quỹ Đầu tư phát triển về Lợi nhuận sau thuế chưa phân phối và ngừng trích lập quỹ Quỹ đầu tư phát triển từ năm 2025 99,99% 4 Mức chi trả cổ tức cho năm tài chính 2024 100,00% 5 Kế hoạch doanh thu – lợi nhuận năm 2025 (hợp nhất) 99,36% 6 Kế hoạch chi trả cổ tức cho năm tài chính 2025 99,99% 7 Lựa chọn công ty kiểm toán độc lập cho năm tài chính 2025 8 Tổng thù lao và các lợi ích khác của HĐQT năm 2025 89,05% 99,98% 9 Điều chỉnh Điều lệ Công ty 10 100,00% Miễn nhiệm tư cách thành viên HĐQT – Ông Lee Meng Tat 11 100,00% Miễn nhiệm tư cách thành viên HĐQT – Ông Hoàng Ngọc Thạch 100,00% (*) tính trên tổng số cổ phần có quyền biểu quyết của các Cổ Đông tham dự và thực hiện biểu quyết. 2.   Kết quả bầu cử Kết quả bầu bổ sung thành viên HĐQT nhiệm kỳ 2022-2026 như sau: STT 1 Họ tên ứng viên Tongjai Thanachanan Tổng số phiếu bầu (**) 1.608.670.098 2 Vũ Trí Thức (**) theo hình thức bầu dồn phiếu. 1.609.201.108 Như vậy, theo kết quả trên, Bà Tongjai Thanachanan và Ông Vũ Trí Thức đã trúng cử vị trí thành viên HĐQT nhiệm kỳ 2022-2026 của Công ty. III. BẾ MẠC ĐẠI HỘI Bà Lê Quang Thanh Trúc - Thư ký Đại hội, trình bày nội dung Biên bản họp ĐHĐCĐ và tổ chức lấy ý kiến của cổ đông để thông qua nội dung Biên bản họp. Với tỷ lệ biểu quyết tán thành là 100,00%, Biên bản họp ĐHĐCĐ thường niên năm 2025 của Công ty Cổ phần Sữa Việt Nam đã được thông qua. 14 Tiếp theo, Bà Trúc đọc toàn văn Nghị quyết của ĐHĐCĐ thường niên năm 2025 cho đại hội. Sau đó, Ông Nguyễn Hạnh Phúc thay mặt Chủ tọa đoàn tuyên bố bế mạc cuộc họp ĐHĐCĐ thường niên năm 2025 của Công ty Cổ phần Sữa Việt Nam vào lúc 17 giờ 20 phút cùng ngày. TM. ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2025 Chủ tọa Ông NGUYỄN HẠNH PHÚC Thư ký Bà LÊ QUANG THANH TRÚC 15 3,00% 1.609.201.108 1.608.670.098
+# CÔNG TY CỔ PHẦN SỮA VIỆT NAM
+
+## (Mã chứng khoán: VNM)
+
+# Tài liệu họp
+
+# ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN
+
+# NĂM 202 6
+
+## TP. HCM, ngày 2 2 tháng 4 năm 202 6
+
+
+### CHƯƠNG TRÌNH CUỘC HỌP
+
+### ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN 202 6 (“ĐHĐCĐ”)
+
+```
+Ngày 2 2 tháng 04 năm 202 6
+```
+**TT Nội dung Thời gian
+I. THỦ TỤC**
+1 - Khai mạc 9 h 00
+2 - Công bố điều kiện để tổ chức đại hội (tỷ lệ cổ đông tham dự) 9 h 05 – 9 h 15
+3 - Giới thiệu Chủ tọa Cuộc họp ĐHĐCĐ
+4 - Giới thiệu Thư ký đại hội
+5 - Thông qua chương trình Cuộc họp ĐHĐCĐ
+6 - Bầu Ban kiểm phiếu
+**II. CHƯƠNG TRÌNH NGHỊ SỰ**
+7 Hội đồng quản trị (“ **HĐQT** ”) báo cáo cho năm 202 5
+
+- Báo cáo hoạt động chung của HĐQT.
+- Báo cáo của Ủy ban Kiểm toán.
+- Báo cáo hoạt động của thành viên độc lập HĐQT
+
+```
+9 h 15
+```
+```
+8 HĐQT báo cáo các vấn đề trình ĐHĐCĐ biểu quyết thông qua 9 h 30 –
+1 Báo cáo tài chính năm 202 5 đã kiểm toán 11 h 30
+2 Báo cáo của HĐQT năm 202 5 (trình bày tại Mục 7 bên trên)
+3 Mức chi trả cổ tức cho năm tài chính 202 5
+4 Kế hoạch doanh thu – lợi nhuận năm 202 6 (hợp nhất)
+5 Kế hoạch chi trả cổ tức cho năm tài chính 202 6
+6 Lựa chọn công ty kiểm toán độc lập cho năm tài chính 202 6
+7 Tổng thù lao và các lợi ích khác của HĐQT năm 202 6
+8 Điều chỉnh, bổ sung ngành nghề kinh doanh của Công ty
+9 Điều chỉnh Điều lệ Công ty
+10 Điều chỉnh Quy chế nội bộ về Quản trị Công ty
+11 Miễn nhiệm tư cách thành viên HĐQT – Ông Alain Xavier Cany
+12 Bầu bổ sung thành viên HĐQT
+9 Thảo luận
+III. BIỂU QUYẾT
+10 Công bố kết quả biểu quyết và bầu cử
+IV. BẾ MẠC
+11 Thông qua Biên bản và Nghị quyết Đại hội cổ đông thường niên năm 202 6 11 h
+12 Tuyên bố bế mạc 12 h
+```
+
+### CÁC VẤN ĐỀ VỀ THỦ TỤC
+
+### VẤN ĐỀ 1. CHƯƠNG TRÌNH CUỘC HỌP ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+
+```
+HĐQT kính trình ĐHĐCĐ thông qua nội dung và chương trình cuộc họp ĐHĐCĐ như đã
+nêu trên.
+```
+**VẤN ĐỀ 2. THÀNH PHẦN BAN KIỂM PHIẾU**
+
+```
+Để hỗ trợ Ban tổ chức trong việc kiểm phiếu biểu quyết và bầu cử, HĐQT kính trình ĐHĐCĐ
+thông qua thành phần nhân sự của Ban kiểm phiếu như sau:
+```
+- Ông Diệp Hồng Khôn _Trưởng Bộ phận Pháp lý_ Trưởng Ban
+- Bà Trần Thái Thoại Trân _Trưởng Bộ phận Kiểm soát nội bộ & Hoạt động_ Thành viên
+- Bà Nguyễn Thị Mỹ
+Nương
+
+```
+Cổ đông thiểu số cá nhân Thành viên độc lập
+```
+### CÁC NỘI DUNG CHI TIẾT TRÌNH ĐHĐCĐ THÔNG QUA
+
+### VẤN ĐỀ 3. BÁO CÁO TÀI CHÍNH ĐÃ KIỂM TOÁN NĂM 202 5
+
+```
+Vui lòng xem Báo cáo tài chính năm 202 5 đã kiểm toán được công bố trên website của Công
+ty.
+```
+**VẤN ĐỀ 4. BÁO CÁO CỦA HĐQT NĂM 20 25**
+
+- Báo cáo hoạt động của HĐQT.
+- Báo cáo của Ủy ban Kiểm toán và thành viên độc lập trong UBKT năm 202 5.
+- Báo cáo hoạt động của thành viên độc lập HĐQT năm 2025.
+Vui lòng xem nội dung chi tiết trong Báo cáo thường niên năm 202 5 đã được công bố trên
+website của Công ty.
+
+### VẤN ĐỀ 5. MỨC CHI TRẢ CỔ TỨC CHO NĂM TÀI CHÍNH 2025
+
+```
+ĐHĐCĐ thường niên năm 202 5 đã phê duyệt kế hoạch chi cổ tức bằng tiền năm 202 5 với
+mức tối thiểu bằng 50% kế hoạch lợi nhuận sau thuế hợp nhất năm 2025, đồng thời giao cho
+HĐQT quyết định mức cổ tức và thời gian tạm ứng cổ tức cho từng đợt phù hợp với kế hoạch
+cổ tức này.
+```
+```
+Căn cứ theo kế hoạch chi trả cổ tức năm 2025 đã được thông qua này, HĐQT đã thực hiện
+tạm ứng cổ tức của năm tài chính 202 5 như sau:
+```
+```
+Diễn giải
+```
+```
+Mức cổ tức
+(đồng/cổ
+phần)
+```
+```
+Tổng cổ
+tức
+(tỷ đồng)
+```
+```
+Ngày chốt danh
+sách/ngày đăng
+ký cuối cùng
+```
+```
+Ngày chi trả
+```
+```
+Đã tạm ứng đợt 1 2 .500 5.224 17 / 10 /202 5 24 /10/202 5
+```
+```
+Căn cứ tình hình tài chính của Công ty hiện nay, HĐQT kính trình ĐHĐCĐ phê duyệt mức
+cổ tức bằng tiền chính thức của năm 202 5 là 43,5% mệnh giá, tương đương 4.350 đồng/cổ
+phần. Theo đó, cổ tức còn lại của năm 202 5 là 18 ,5% mệnh giá (tương đương 1. 8 50 đồng/cổ
+phần). Đồng thời, đối với mức cổ tức năm 2025 còn lại này, ĐHĐCĐ giao cho HĐQT quyết
+```
+
+```
+định mức cổ tức và thời gian chi trả cụ thể của từng đợt trong thời hạn 6 tháng kể từ ngày kết
+thúc họp Đại hội đồng cổ đông thường niên 202 6 (ngày 2 2 /0 4 /202 6 ). Nguồn chi trả sẽ lấy từ
+“Lợi nhuận sau thuế chưa phân phối” trên báo cáo tài chính của Công ty được công bố theo
+quý gần nhất trước ngày chi trả.
+```
+### VẤN ĐỀ 6. KẾ HOẠCH DOANH THU, LỢI NHUẬN NĂM 20 26 (HỢP NHẤT)
+
+```
+Căn cứ theo tình hình thực tế năm 202 5 và dự báo cho năm 202 6 , HĐQT kính trình
+ĐHĐCĐ phê duyệt kế hoạch doanh thu và lợi nhuận năm 202 6 (hợp nhất) theo Chuẩn
+mực kế toán Việt Nam như sau:
+| Chỉ tiêu | Kế hoạch 2026 | Thực hiện 2025 | Thay đổi (Giá trị) | Thay đổi (%) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Tổng doanh thu** | 66.477 | 63.724 | 2.753 | 4,3% |
+| **Lợi nhuận trước thuế** | 12.197 | 11.650 | 547 | 4,7% |
+| **Lợi nhuận sau thuế** | 9.828 | 9.414 | 414 | 4,4% |
+### VẤN ĐỀ 7. KẾ HOẠCH CHI TRẢ CỔ TỨC CHO NĂM TÀI CHÍNH 2026
+
+```
+HĐQT kính trình ĐHĐCĐ phê duyệt kế hoạch chi trả cổ tức bằng tiền cho năm tài chính
+2026 như sau:
+```
+- Mức cổ tức bằng tiền năm 202 6 tối thiểu bằng 50% kế hoạch lợi nhuận sau thuế hợp
+    nhất 2026.
+- Nguồn chi trả sẽ lấy từ “Lợi nhuận sau thuế chưa phân phối” trên báo cáo tài chính của
+    Công ty được công bố theo quý gần nhất trước ngày chi trả.
+- Giao cho HĐQT quyết định mức cổ tức và thời gian tạm ứng cổ tức cho từng đợt phù hợp
+    với kế hoạch cổ tức ở trên.
+- Căn cứ theo kết quả kinh doanh năm 202 6 , HĐQT sẽ trình ĐHĐCĐ tổng mức cổ tức bằng
+    tiền chính thức của năm 202 6 tại cuộc họp ĐHĐCĐ thường niên 202 7.
+
+### VẤN ĐỀ 8. LỰA CHỌN ĐƠN VỊ KIỂM TOÁN ĐỘC LẬP NĂM TÀI CHÍNH 202 6
+
+```
+HĐQT kính trình ĐHĐCĐ giao cho HĐQT lựa chọn đơn vị kiểm toán độc lập cho năm tài
+chính 202 6 là một trong bốn công ty kiểm toán (Big 4) hoạt động tại Việt Nam theo danh sách
+sau đây:
+```
+- Công ty TNHH KPMG Việt Nam (KPMG).
+- Công ty TNHH PwC Việt Nam.
+- Công ty TNHH Ernst & Young Việt Nam (E&Y).
+- Công ty TNHH Deloitte Việt Nam.
+
+
+### VẤN ĐỀ 9. TỔNG THÙ LAO VÀ LỢI ÍCH KHÁC CỦA HĐQT NĂM 202 6
+
+```
+HĐQT kính trình ĐHĐCĐ phê duyệt tổng thù lao và các lợi ích năm 202 6 cho HĐQT là 2 5
+tỷ đồng với cơ cấu 11 thành viên. Mức này được giữ nguyên từ năm 2018 đến nay.
+Thù lao và các lợi ích cho HĐQT sẽ được tính và chi trả tương ứng với số lượng thành viên
+thực tế.
+Ngoài ra, HĐQT cũng báo cáo ĐHĐCĐ là Công ty vẫn tiếp tục thực hiện nội dung Nghị quyết
+số 01/NQ-CTS.ĐHĐCĐ/2023 ngày 25/04/2023 của ĐHĐCĐ về việc phê duyệt các lợi ích
+khác cho HĐQT là bảo hiểm trách nhiệm người quản lý, bảo hiểm tai nạn và sức khỏe,
+và khám sức khỏe hàng năm theo chính sách chung của Công ty.
+```
+### VẤN ĐỀ 10. ĐIỀU CHỈNH, BỔ SUNG NGÀNH NGHỀ KINH DOANH CỦA CÔNG TY
+
+```
+Ngày 29/09/2025 Thủ tướng Chính Phủ đã ban hành Quyết định số 36/2025/QĐ-TTg về Hệ
+thống ngành kinh tế Việt Nam, có hiệu lực từ ngày 15.11.2025 (sau đây gọi tắt là “ Quyết định
+36/2025/QĐ-TTg ”). Theo đó một số ngành nghề kinh doanh hiện tại của Vinamilk thuộc
+phạm vi điều chỉnh và loại bỏ theo Quyết định này. Do đó Vinamilk cần rà soát, cập nhật lại
+danh sách các ngành, nghề kinh doanh của mình để phù hợp với Quyết định 36/2025/QĐ-TTg
+nêu trên.
+Bên cạnh đó, Vinamilk cũng bổ sung thêm một số ngành, nghề kinh doanh mới để có thể triển
+khai các hoạt động kinh doanh tiềm năng , mở rộng hoạt động kinh doanh và tối đa hóa các
+nguồn lực sẵn có thông qua việc cung cấp các dịch vụ công nghệ thông tin và phân phối thêm
+các vật phẩm, các sản phẩm đặc trưng khác để hướng tới việc bao phủ và tăng độ nhận dạng
+thương hiệu của Vinamilk với người tiêu dùng.
+Từ những lý do trên, HĐQT kính trình ĐHĐCĐ thông qua việc điều chỉnh, bổ sung ngành,
+nghề kinh doanh của Công ty. Chi tiết vui lòng xem trong phụ lục đính kèm.
+ĐHĐCĐ ủy quyền cho Tổng Giám đốc – Người đại diện theo pháp luật của Công ty, thực
+hiện và/hoặc chỉ đạo thực hiện các thủ tục cần thiết theo quy định của pháp luật và/hoặc theo
+hướng dẫn của cơ quan nhà nước có thẩm quyền liên quan đến việc điều chỉnh, bổ sung ngành
+nghề kinh doanh của Công ty.
+```
+### VẤN ĐỀ 11. ĐIỀU CHỈNH ĐIỀU LỆ CÔNG TY
+
+```
+HĐQT kính trình ĐHĐCĐ phê duyệt việc sửa đổi, bổ sung các nội dung trong Điều lệ Công
+ty. Thông tin chi tiết như trình bày trong phụ lục đính kèm.
+Đồng thời HĐQT kính trình ĐHĐCĐ thông qua bản Điều lệ đã cập nhật nội dung điều
+chỉnh để thay thế cho bản Điều lệ đã được ĐHĐCĐ thông qua ngày 25/04/202 5 (vui lòng
+xem trong phụ lục đính kèm).
+```
+### VẤN ĐỀ 12. ĐIỀU CHỈNH QUY CHẾ NỘI BỘ VỀ QUẢN TRỊ CÔNG TY
+
+```
+HĐQT kính trình ĐHĐCĐ phê duyệt việc điều chỉnh Quy chế nội bộ về quản trị công ty
+nhằm cập nhật đầy đủ các thay đổi của pháp luật, phù hợp với thông lệ quản trị tốt và hỗ
+trợ hiệu quả cho hoạt động điều hành. Thông tin chi tiết như trình bày trong phụ lục đính
+kèm
+```
+
+### VẤN ĐỀ 13. MIỄN NHIỆM TƯ CÁCH THÀNH VIÊN HĐQT - ÔNG ALAIN XAVIER
+
+### CANY
+
+```
+Ông Alain Xavier Cany - thành viên HĐQT của Công ty đã có đơn xin từ nhiệm gửi cho
+Công ty và đã được Công ty công bố thông tin theo công văn số 176 /CV-CTS.TC/202 6
+ngày 02 /02/202 6. Do đó, HĐQT kính trình ĐHĐCĐ phê duyệt việc từ nhiệm của Ông
+Alain Xavier Cany kể từ ngày 2 2 /04/202 6.
+```
+### VẤN ĐỀ 14. BẦU BỔ SUNG THÀNH VIÊN HĐQT
+
+```
+HĐQT nhiệm kỳ 2022 - 2026 hiện đang có chín (09) thành viên trên tổng số thành viên
+tối đa là 11 thành viên. Cổ Đông hoặc nhóm Cổ Đông đáp ứng yêu cầu theo quy định tại
+Khoản 4 Điều 9 Điều Lệ Công Ty được thực hiện quyền đề cử, ứng cử thành viên HĐQT
+của Công Ty.
+Thủ tục đề cử, ứng cử thành viên HĐQT sẽ được thực hiện theo Thông báo số 441 /TB-
+CTS.HDQT/202 6 ngày 31/03/2026 về việc đề cử, ứng cử để bầu bổ sung thành viên
+HĐQT.
+Danh sách ứng viên (nếu có) sẽ được chúng tôi công bố thông tin chậm nhất là mười (1 0 )
+ngày trước ngày tổ chức cuộc họp ĐHĐCĐ.
+```
+```
+-----------------------
+PHỤ LỤC ĐÍNH KÈM :
+```
+**1.** Dự thảo Điều lệ Công ty
+**2.** Thuyết minh bổ sung ngành nghề kinh doanh
+**3.** Thuyết minh điều chỉnh Điều lệ Công ty
+**4.** Thuyết minh sửa đổi quy chế nội bộ về quản trị công ty
+**5.** Quy chế nội bộ về quản trị công ty
+
+```
+Thay mặt và đại diện cho
+Hội đồng quản trị
+Công ty Cổ phần Sữa Việt Nam
+```
+```
+Nguyễn Hạnh Phúc
+Chủ tịch
+```
+
