@@ -28,7 +28,7 @@ def detect_level(content):
     # We look for "Điều X." or "Chương X." or "Mục X." anywhere in the text
     force_markers = [r'Điều \d+', r'Chương [IVX\d]+', r'Mục \d+']
     if any(re.search(m, content, re.IGNORECASE) for m in force_markers):
-        return 3
+        return 4
 
     # Level 4: Fallback
     return 4

@@ -3,6 +3,9 @@ import re
 import json
 import uuid
 
+# Robust National Motto Regex
+QUOC_HIEU_REGEX = r"C[ỘOÔ]NG\s+H[ÒOÓÔ][AÀÁẠ]?\s+X[ÃAẢẠ]\s+H[ỘOÔ]I\s+CH[ỦUŨỦ]+\s+N\s*GH[ĨIÍÌỊA]+A?\s+V[IỆEÊÌÍỊ]+T\s+N[AÀÁẠ]M"
+
 # Optimized patterns to handle Markdown headers, bolding, and multi-line matching
 HIERARCHY_CONFIG = [
     {"name": "chuong", "label": "Chương", "pattern": re.compile(r'^(?:#+\s*)?(?:\**)(?:Chương|CHƯƠNG)\s+([IVXLCDM\d]+)', re.I | re.M)},
@@ -29,107 +32,116 @@ def process_hierarchical_chunking(content, doc_title, config):
     # Normalize line endings
     content = content.replace('\r\n', '\n')
     
-    # Granular split: split before any major marker
-    # Added comprehensive footer markers to the split pattern (matching patterns above)
-    footer_markers = r'Nơi nh[ậâ]n:|KT\.\s*|TM\.\s*|THỐNG ĐỐC|BỘ TRƯỞNG|CHỦ TỊCH|PHỤ LỤC|Mẫu số:|TỜ KHAI|BIÊN BẢN'
-    split_pattern = rf'\n(?=(?:#+\s*)?(?:\**)(?:Điều|Mục|Chương|{footer_markers}))'
-    blocks = re.split(split_pattern, content)
+    # Pre-split into sub-documents using National Motto
+    sub_docs_parts = re.split(rf'({QUOC_HIEU_REGEX})', content)
     
-    chunks = []
-    current_state = {level["name"]: None for level in config}
-    
-    for block in blocks:
-        block = block.strip()
-        if not block:
-            continue
-            
-        # 1. Check for Footer to reset context
-        is_footer = False
-        for fp in FOOTER_PATTERNS:
-            if fp.search(block):
-                current_state = {level["name"]: None for level in config}
-                is_footer = True
-                break
-            
-        # 2. Check for hierarchy level updates
-        matched_level_idx = -1
-        for idx, level in enumerate(config):
-            # Only update if the marker is at the very beginning of this block
-            match = level["pattern"].match(block)
-            if match:
-                val = match.group(1) if match.groups() else ""
-                # Handle cases like 'Khoản' where we might not capture a value in the first group easily
-                if not val and level["name"] == "khoan":
-                    k_num = re.search(r'(\d+)\.', block)
-                    val = k_num.group(1) if k_num else ""
-                
-                current_state[level["name"]] = f"{level['label']} {val}" if val else level['label']
-                matched_level_idx = idx
-                break
-        
-        # 3. Reset lower levels if a higher level matched
-        if matched_level_idx != -1:
-            for i in range(matched_level_idx + 1, len(config)):
-                current_state[config[i]["name"]] = None
-        
-        # 4. Handle internal splitting for 'Khoản' within a 'Điều'
-        # If the block is a 'Điều' and contains multiple 'Khoản', we split it
-        if current_state.get("dieu") and not is_footer:
-            # Look for 'Khoản' markers (e.g., '1.', '2.' or '- 1.')
-            khoan_split_pattern = r'\n(?=(?:#+\s*)?(?:- )?(?:\**)\d+\.\s)'
-            sub_blocks = re.split(khoan_split_pattern, block)
-            
-            if len(sub_blocks) > 1:
-                for i, sb in enumerate(sub_blocks):
-                    sb = sb.strip()
-                    if not sb: continue
-                    
-                    # Detect 'Khoản' for this specific sub-block
-                    k_match = config[3]["pattern"].match(sb)
-                    if k_match:
-                        k_num = re.search(r'(\d+)\.', sb)
-                        if k_num:
-                            current_state["khoan"] = f"Khoản {k_num.group(1)}"
-                    elif i == 0:
-                        current_state["khoan"] = None # Intro of Điều
-                        
-                    # Create summary context
-                    context_parts = [doc_title]
-                    for level in config:
-                        if current_state[level["name"]]:
-                            context_parts.append(current_state[level["name"]])
-                    
-                    summary_context = " - ".join(context_parts)
-                    chunks.append({
-                        "id": str(uuid.uuid4()),
-                        "content": sb,
-                        "metadata": {
-                            "doc_title": doc_title,
-                            "hierarchy": current_state.copy(),
-                            "summary_context": summary_context
-                        }
-                    })
-                continue
+    sub_docs = []
+    if len(sub_docs_parts) == 1:
+        sub_docs.append(sub_docs_parts[0])
+    else:
+        if sub_docs_parts[0].strip():
+            sub_docs.append(sub_docs_parts[0])
+        for i in range(1, len(sub_docs_parts), 2):
+            motto = sub_docs_parts[i]
+            body = sub_docs_parts[i+1] if i+1 < len(sub_docs_parts) else ""
+            sub_docs.append(motto + body)
 
-        # 5. Default chunk creation
-        context_parts = [doc_title]
-        for level in config:
-            if current_state[level["name"]]:
-                context_parts.append(current_state[level["name"]])
+    all_chunks = []
+    
+    for idx, sub_doc in enumerate(sub_docs):
+        current_doc_title = f"{doc_title}_part_{idx+1}" if len(sub_docs) > 1 else doc_title
         
-        if is_footer and not any(current_state.values()):
-            context_parts.append("Kết bài")
+        # Granular split: split before any major marker
+        footer_markers = r'Nơi nh[ậâ]n:|KT\.\s*|TM\.\s*|THỐNG ĐỐC|BỘ TRƯỞNG|CHỦ TỊCH|PHỤ LỤC|Mẫu số:|TỜ KHAI|BIÊN BẢN'
+        split_pattern = rf'\n(?=(?:#+\s*)?(?:\**)(?:Điều|Mục|Chương|{footer_markers}))'
+        blocks = re.split(split_pattern, sub_doc)
+        
+        current_state = {level["name"]: None for level in config}
+        
+        for block in blocks:
+            block = block.strip()
+            if not block:
+                continue
+                
+            # 1. Check for Footer to reset context
+            is_footer = False
+            for fp in FOOTER_PATTERNS:
+                if fp.search(block):
+                    current_state = {level["name"]: None for level in config}
+                    is_footer = True
+                    break
+                
+            # 2. Check for hierarchy level updates
+            matched_level_idx = -1
+            for l_idx, level in enumerate(config):
+                match = level["pattern"].match(block)
+                if match:
+                    val = match.group(1) if match.groups() else ""
+                    if not val and level["name"] == "khoan":
+                        k_num = re.search(r'(\d+)\.', block)
+                        val = k_num.group(1) if k_num else ""
+                    
+                    current_state[level["name"]] = f"{level['label']} {val}" if val else level['label']
+                    matched_level_idx = l_idx
+                    break
             
-        summary_context = " - ".join(context_parts)
-        
-        chunks.append({
-            "id": str(uuid.uuid4()),
-            "content": block,
-            "metadata": {
-                "doc_title": doc_title,
-                "hierarchy": current_state.copy(),
-                "summary_context": summary_context
+            # 3. Reset lower levels if a higher level matched
+            if matched_level_idx != -1:
+                for i in range(matched_level_idx + 1, len(config)):
+                    current_state[config[i]["name"]] = None
+            
+            # 4. Handle internal splitting for 'Khoản' within a 'Điều'
+            if current_state.get("dieu") and not is_footer:
+                khoan_split_pattern = r'\n(?=(?:#+\s*)?(?:- )?(?:\**)\d+\.\s)'
+                sub_blocks = re.split(khoan_split_pattern, block)
+                
+                if len(sub_blocks) > 1:
+                    for s_idx, sb in enumerate(sub_blocks):
+                        sb = sb.strip()
+                        if not sb: continue
+                        
+                        k_match = config[3]["pattern"].match(sb)
+                        if k_match:
+                            k_num = re.search(r'(\d+)\.', sb)
+                            if k_num:
+                                current_state["khoan"] = f"Khoản {k_num.group(1)}"
+                        elif s_idx == 0:
+                            current_state["khoan"] = None
+                            
+                        hierarchy = {
+                            "level_1": current_state.get("chuong"),
+                            "level_2": current_state.get("muc"),
+                            "level_3": current_state.get("dieu"),
+                            "level_4": current_state.get("khoan")
+                        }
+                        
+                        all_chunks.append({
+                            "id": str(uuid.uuid4()),
+                            "content": sb,
+                            "metadata": {
+                                "doc_title": current_doc_title,
+                                "hierarchy": hierarchy,
+                                "extra": {}
+                            }
+                        })
+                    continue
+
+            # 5. Default chunk creation
+            hierarchy = {
+                "level_1": current_state.get("chuong"),
+                "level_2": current_state.get("muc"),
+                "level_3": current_state.get("dieu"),
+                "level_4": current_state.get("khoan")
             }
-        })
-        
-    return chunks
+            
+            all_chunks.append({
+                "id": str(uuid.uuid4()),
+                "content": block,
+                "metadata": {
+                    "doc_title": current_doc_title,
+                    "hierarchy": hierarchy,
+                    "extra": {}
+                }
+            })
+            
+    return all_chunks

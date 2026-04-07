@@ -94,7 +94,7 @@ def extract_structure(text):
         i += 1
     return elements
 
-def group_elements(elements, max_chunk_size=1500):
+def group_elements(elements, doc_title, max_chunk_size=1500):
     chunks = []
     current_elements = []
     current_size = 0
@@ -109,8 +109,17 @@ def group_elements(elements, max_chunk_size=1500):
                 "id": str(uuid.uuid4()),
                 "content": chunk_content,
                 "metadata": {
-                    "type": "structural",
-                    "element_count": len(current_elements)
+                    "doc_title": doc_title,
+                    "hierarchy": {
+                        "level_1": None,
+                        "level_2": None,
+                        "level_3": None,
+                        "level_4": None
+                    },
+                    "extra": {
+                        "type": "structural",
+                        "element_count": len(current_elements)
+                    }
                 }
             })
             current_elements = []
@@ -127,8 +136,17 @@ def group_elements(elements, max_chunk_size=1500):
                 "id": str(uuid.uuid4()),
                 "content": chunk_content,
                 "metadata": {
-                    "type": "structural",
-                    "element_count": len(current_elements)
+                    "doc_title": doc_title,
+                    "hierarchy": {
+                        "level_1": None,
+                        "level_2": None,
+                        "level_3": None,
+                        "level_4": None
+                    },
+                    "extra": {
+                        "type": "structural",
+                        "element_count": len(current_elements)
+                    }
                 }
             })
             current_elements = [header]
@@ -140,8 +158,17 @@ def group_elements(elements, max_chunk_size=1500):
             "id": str(uuid.uuid4()),
             "content": chunk_content,
             "metadata": {
-                "type": "structural",
-                "element_count": len(current_elements)
+                "doc_title": doc_title,
+                "hierarchy": {
+                    "level_1": None,
+                    "level_2": None,
+                    "level_3": None,
+                    "level_4": None
+                },
+                "extra": {
+                    "type": "structural",
+                    "element_count": len(current_elements)
+                }
             }
         })
         
@@ -149,7 +176,5 @@ def group_elements(elements, max_chunk_size=1500):
 
 def process_structure_chunking(content, doc_title, max_size=1500):
     elements = extract_structure(content)
-    chunks = group_elements(elements, max_size)
-    for chunk in chunks:
-        chunk["metadata"]["doc_title"] = doc_title
+    chunks = group_elements(elements, doc_title, max_size)
     return chunks
